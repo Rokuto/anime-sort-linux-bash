@@ -937,11 +937,11 @@ mkdir Anime; cd Anime
 				mkdir "Shoujo_Shuumatsu_Ryokou"
 				mkdir "The_Idolm@ster_SideM"
 				mkdir "Time_Bokan_Gyakushuu_no_San-Akunin"
-				mkdir "Tsukipro The Animation"
+				mkdir "Tsukipro_The_Animation"
 				mkdir "Two_Car"
 				mkdir "UQ_Holder!_Mahou_Sensei_Negima!_2"
 				mkdir "Urahara"
-				mkdir "Wake_Up,_Girls!_Shin_Shou_[Season_02]"
+				mkdir "Wake_Up_Girls!_Shin_Shou_[Season_02]"
 				mkdir "Yuuki_Yuuna_wa_Yuusha_de_Aru_Washio_Sumi_no_Shou_-Yuusha_no_Shou_[Season_02]"
 
 				#TV Short
@@ -959,7 +959,7 @@ mkdir Anime; cd Anime
 				#Movie
 				mkdir "Dance_with_Devils_-Fortuna"
 				mkdir "Donten_ni_Warau_Gaiden_[Season_02]"
-				mkdir "Donten_ni_Warau_Gaiden_[Season_01]-Ketsubetsu_Yamainu_no_Chikai"
+				mkdir "Donten_ni_Warau_Gaiden_[Season_01_-Ketsubetsu_Yamainu_no_Chikai"
 				mkdir "Fate_Stay_Night_[Heaven's_Feel]_I_presage_flower"
 				mkdir "Free!_-Take_Your_Marks"
 				mkdir "Girls_und_Panzer_Saishuushou"
