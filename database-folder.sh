@@ -907,7 +907,7 @@ mkdir Anime; cd Anime
 				mkdir "Boku_no_Kanojo_ga_Majime_Sugiru_Shojo_Bitch_na_Ken"
 				mkdir "Cardfight!!_Vanguard_G_Z_[Season_05]"
 				mkdir "ClassicaLoid_[Season_02]"
-				mkdir "Code_Realize_-_Sousei_no_Himegimi"
+				mkdir "Code_-Realize_-_Sousei_no_Himegimi"
 				mkdir "Dies_Irae"
 				mkdir "Dynamic_Chord"
 				mkdir "Evil_or_Live"
