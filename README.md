@@ -12,4 +12,4 @@ According to the [file and directories naming convention of windows](https://msd
 + | (vertical bar or pipe)
 + ? (question mark)
 + \* (asterisk)
-are reserved. To avoid losing data when the files and folders are scanned in window these characters will be replaced by `_-`.
+are reserved. To avoid losing data when files and folders are scanned in window these characters and the space next to it will be replaced by `_-`.
