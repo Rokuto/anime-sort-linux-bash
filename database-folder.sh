@@ -492,7 +492,7 @@ mkdir Anime; cd Anime
 				mkdir "Soul_Buster"
 				mkdir "Teekyuu_[Season_08]"
 				mkdir "To_Be_Hero"
-				mkdir "Uchi_no_Tama_Shirimasenka_-"
+				mkdir "Uchi_no_Tama_Shirimasenka"
 				mkdir "Yasamura_Yasashi_no_Yasashii_Seikai"
 
 				#Movie
@@ -560,7 +560,7 @@ mkdir Anime; cd Anime
 				mkdir "Tantei_Opera_Milky_Holmes_-Fun_Fun_Party_Night♪_-_Ken_to_Janet_no_Okurimono"
 				mkdir "Tenchi_Muyou!_Ryo-Ohki_[Season_04]"
 				mkdir "Trick_or_Alice"
-				mkdir "Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru._Zoku_-Kitto,_Onnanoko_wa_Osatou_to_Spice_to_Suteki_na_Nanika_de_Dekiteiru"
+				mkdir "Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru._Zoku_[Season_02]_-Kitto,_Onnanoko_wa_Osatou_to_Spice_to_Suteki_na_Nanika_de_Dekiteiru"
 
 	cd ../../..; mkdir 2017; cd 2017
 		mkdir Winter_[Jan-Mar]; cd Winter_[Jan-Mar]
@@ -704,7 +704,7 @@ mkdir Anime; cd Anime
 				mkdir "Seikaisuru_Kado"
 				mkdir "Shingeki_no_Bahamut_-Virgin_Soul"
 				mkdir "Shingeki_no_Kyojin_[Season_02]"
-				mkdir "Shuumatsu_Nani_Shitemasu_ka_-Isogashii_desu_ka_-Sukutte_Moratte_Ii_desu_ka_-"
+				mkdir "Shuumatsu_Nani_Shitemasu_ka_-Isogashii_desu_ka_-Sukutte_Moratte_Ii_desu_ka"
 				mkdir "Sin_Nanatsu_no_Taizai"
 				mkdir "Star_Mu_2"
 				mkdir "The_Snack_World"
@@ -862,7 +862,7 @@ mkdir Anime; cd Anime
 				mkdir "No_Game_No_Life_-Zero-"
 				mkdir "Pokemon_-Kimi_ni_Kimeta!"
 				mkdir "Seitokai_Yakuindomo_Movie"
-				mkdir "Uchiage Hanabi,_Shita_Kara_Miru_ka_-Yoko_Kara_Miru_ka_-"
+				mkdir "Uchiage Hanabi,_Shita_Kara_Miru_ka_-Yoko_Kara_Miru_ka"
 				mkdir "Yuuki_Yuuna_wa_Yuusha_de_Aru_-Washio_Sumi_no_Shou_Movie_-_03_-Yakusoku"
 				
 				#OVA / ONA / Special
