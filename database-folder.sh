@@ -416,7 +416,53 @@ mkdir Anime; cd Anime
 		cd ../..; mkdir Summer_[Jul-Sep]; cd Summer_[Jul-Sep]
 			mkdir Non-Yet; mkdir Downloaded && cd Non-Yet
 				#TV
+				mkdir "91Days"
+				mkdir "Active_Raid_-Kidou_Kyoushuushitsu_Dai_Hakkei_[Season_02]"
+				mkdir "Amaama_to_Inazuma"
+				mkdir "Amanchu!"
+				mkdir "Ange_Vierge"
+				mkdir "Arslan_Senki_-Fuujin_Ranbu"
+				mkdir "B-PROJECT_-Kodou＊Ambitious"
+				mkdir "Battery"
+				mkdir "Berserk_[Season_01]"
+				mkdir "Binan_Koukou_Chikyuu_Boueibu_Love!_Love!_[Season_02]"
+				mkdir "Cheer_Danshi!!"
+				mkdir "D.Gray-man_Hallow"
+				mkdir "Danganronpa_[Season_03]_-The_End_of_Kibougamine_Gakuen_-_Mirai-Hen"
+				mkdir "Danganronpa_[Season_03]_-The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen"
+				mkdir "Days"
+				mkdir "Fate_-kaleid_liner_Prisma☆Illya_3rei!!_[Season_03]"
+				mkdir "Fukigen_na_Mononokean"
+				mkdir "Handa-kun"
+				mkdir "Hatsukoi_Monster"
+				mkdir "Hitori_no_Shita_-the_outcast"
+				mkdir "Kono_Bijutsu-bu_ni_wa_Mondai_ga_Aru!"
+				mkdir "Love_Live!_Sunshine!!_[Season_01]"
+				mkdir "Masou_Gakuen_HxH"
+				mkdir "Mob_Psycho_100"
+				mkdir "Momokuri_(TV)"
+				mkdir "Nanatsu_no_Taizai_-Seisen_no_Shirushi"
+				mkdir "Nejimaki_Seirei_Senki_-Tenkyou_no_Alderamin"
+				mkdir "New_Game!_[Season_01]"
+				mkdir "Orange"
+				mkdir "Puzzle_&_Dragons_X"
+				mkdir "Qualidea_Code"
+				mkdir "Regalia_-The_Three_Sacred_Stars"
+				mkdir "ReLife"
+				mkdir "Rewrite_[Season_01]"
+				mkdir "Scared_Rider_XechS"
+				mkdir "Servamp"
+				mkdir "Shokugeki_no_Souma_-Ni_no_Sara_[Season_02]"
+				mkdir "Taboo_Tattoo"
+				mkdir "Tales_of_Zestiria_the_X_[Season_01]"
+				mkdir "Thunderbolt_Fantasy"
+				mkdir "Time_Travel_Shoujo_-Mari_Waka_to_8-nin_no_Kagakusha-tachi"
+				mkdir "Tsukiuta._The_Animation"
+
 				#TV Short
+				mkdir "Bananya"
+				mkdir ""
+
 				#Movie
 				#OVA / ONA / Special
 		cd ../..; mkdir Fall_[Oct-Dec]; cd Fall_[Oct-Dec]
@@ -867,7 +913,7 @@ mkdir Anime; cd Anime
 				
 				#OVA / ONA / Special
 				mkdir "A-Channel_-Nabe_wo_Tabeyou"
-				mkdir "Binan_Koukou_Chikyuu_Boueibu_LOVE!_LOVE!_LOVE!"
+				mkdir "Binan_Koukou_Chikyuu_Boueibu_LOVE!_LOVE!_LOVE!_[Season_03]"
 				mkdir "Blade_Runner_-Black_Out_2022"
 				mkdir "Bungou_Stray_Dogs_-Hitori_Ayumu"
 				mkdir "Cardcaptor_Sakura_-Clear_Card-hen_-Prologue_Sakura_to_Futatsu_no_Kuma"
